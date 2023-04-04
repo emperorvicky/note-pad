@@ -1,7 +1,7 @@
 import React from 'react';
 import Test from './Pages/test';
 import TheAppBar from './components/AppBar';
-import Main from './main'
+import Main from './Pages/main'
 import {QueryClient, QueryClientProvider} from '@tanstack/react-query';
 
 function App() {
