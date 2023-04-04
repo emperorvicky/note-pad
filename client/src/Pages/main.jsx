@@ -8,8 +8,8 @@ import { Box,
     Button, CircularProgress
 } from '@mui/material';
 import {Add} from '@mui/icons-material';
-import { useInputedData, useDeletedNotes, useNotes } from './components/hooks';
-import { BigStore, SmallStore } from './components/store';
+import { useInputedData, useDeletedNotes, useNotes } from '../components/hooks';
+import { BigStore, SmallStore } from '../components/store';
 import { Stack } from '@mui/system';
 
 
